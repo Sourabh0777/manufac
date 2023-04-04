@@ -21,7 +21,7 @@ export const option = {
     },
     {
       text: "Malic Acidy",
-      left: '4%',
+      left: '2%',
       top: '13%',
 
     },
