@@ -2,7 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Screenshot from 2023-04-05 12-00-02](https://user-images.githubusercontent.com/46265339/229999164-1de020c8-d00e-4f27-99fc-90cdef078c99.png)
+# Screenshot of both the chart
+![Screenshot from 2023-04-05 12-09-16](https://user-images.githubusercontent.com/46265339/230000993-a9412083-5011-42fc-9973-65bb7089d387.png)
+![Screenshot from 2023-04-05 12-09-33](https://user-images.githubusercontent.com/46265339/230001003-707b9461-e448-4f0f-b4f2-2107403ddc9b.png)
+![Screenshot from 2023-04-05 12-09-56](https://user-images.githubusercontent.com/46265339/230001005-3fd2ff32-dedb-4605-a6eb-4477ca812013.png)
 
 
 ## Available Scripts
